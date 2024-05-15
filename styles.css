@@ -1,0 +1,43 @@
+
+.container{
+    margin: auto;
+    position: relative;
+    width: 100%;
+    display: flex;
+}
+.wrapper {
+    margin: auto;
+}
+#header {
+    display: flex;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+#h6 {
+    display: inline-block;
+    margin-bottom: 0;
+    padding-left: 0.7rem;
+}
+#p {
+    margin-bottom: 0.2rem;
+}
+#ellipsis {
+    margin-left: 290px;
+    padding-top: 0.3rem;
+}
+.card{
+    margin-top: 2rem;
+}
+nav {
+    margin: auto;
+}
+#plane {
+    padding-left: 0.3rem;
+}
+#comment{
+    padding-left: 0.3rem;
+}
+#bookmark {
+    padding-left: 285px;
+}
